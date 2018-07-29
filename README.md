@@ -14,7 +14,7 @@ Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
 * 2 Stars: "I know this language and use it in my work/projects regularly."
 * 3 Stars: "I'm am one with the language. I've developed software using it."
 
-# Optional competency
+## Optional competency
 Result reporting and story telling abilities, knowledge of R and R-packages, teaching that to fellow team-mates, and ready to have fun!
 
 
@@ -30,9 +30,7 @@ Result reporting and story telling abilities, knowledge of R and R-packages, tea
 
 
 ---
-###### Project lead: Noushin Nabavi  
-###### Email: nabavinoushin@gmail.com  
-###### Tel.: 226-316-2399     
-###### Twitter: [Twitter](https://twitter.com/nabavinoushin)   
-###### Github: [Github](https://github.com/NoushinN)  
+###### |Project lead: Noushin Nabavi| Email: nabavinoushin@gmail.com|
+       |:--------------------------:|:-----------------------------:| 
+###### |Twitter: [Twitter](https://twitter.com/nabavinoushin) | Github: [Github](https://github.com/NoushinN)  
 ---
