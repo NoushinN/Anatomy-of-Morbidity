@@ -1,10 +1,3 @@
----
-#### Project lead: Noushin Nabavi  
-#### Email: nabavinoushin@gmail.com  
-#### Tel.: 226-316-2399     
-#### Twitter: [Twitter](https://twitter.com/nabavinoushin)   
-#### Github: [Github](https://github.com/NoushinN)  
----
 
 # Welcome to the anatomy of morbidity project
 As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics (https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
@@ -34,3 +27,12 @@ Result reporting and story telling abilities, knowledge of R and R-packages, tea
 [2]. [Caring for aging parents costs Canadians $33 billion a year — and it’s just going to get worse](https://business.financialpost.com/personal-finance/retirement/caring-for-aging-parents-costs-canadians-33-billion-a-year-and-its-just-going-to-get-worse)  
 [3]. [Canada ‘woefully unprepared’ to deal with senior population surge, Senate committee hears](https://globalnews.ca/news/3489880/aging-senior-population-canada-cost-caring-prepared/)  
 [4]. [Roberts, K. C. et al. “Prevalence and Patterns of Chronic Disease Multimorbidity and Associated Determinants in Canada.” Health Promotion and Chronic Disease Prevention in Canada : Research, Policy and Practice 35.6 (2015): 87–94.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910465/)  
+
+
+---
+#### Project lead: Noushin Nabavi  
+#### Email: nabavinoushin@gmail.com  
+#### Tel.: 226-316-2399     
+#### Twitter: [Twitter](https://twitter.com/nabavinoushin)   
+#### Github: [Github](https://github.com/NoushinN)  
+---
