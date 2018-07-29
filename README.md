@@ -27,13 +27,13 @@ Result reporting and story telling abilities, knowledge of R and R-packages, tea
 
 
 ##### Resources
-1. [Git and GitHub for Poets] (https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-2. [Useful R packages]: (https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+1. [Git and GitHub for Poets] (https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
+2. [Useful R packages]: (https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)  
 
 ########## References
-[^1]: [Canada's aging population will strain the health-care system] (https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/) 
+[^1]: [Canada's aging population will strain the health-care system] (https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/)   
 [^2]: [Caring for aging parents costs Canadians $33 billion a year — and it’s just going to get worse]
-(https://business.financialpost.com/personal-finance/retirement/caring-for-aging-parents-costs-canadians-33-billion-a-year-and-its-just-going-to-get-worse)
+(https://business.financialpost.com/personal-finance/retirement/caring-for-aging-parents-costs-canadians-33-billion-a-year-and-its-just-going-to-get-worse)  
 [^3]: [Canada ‘woefully unprepared’ to deal with senior population surge, Senate committee hears]
-(https://globalnews.ca/news/3489880/aging-senior-population-canada-cost-caring-prepared/)
+(https://globalnews.ca/news/3489880/aging-senior-population-canada-cost-caring-prepared/)  
 [^4]: Roberts, K. C. et al. “Prevalence and Patterns of Chronic Disease Multimorbidity and Associated Determinants in Canada.” Health Promotion and Chronic Disease Prevention in Canada : Research, Policy and Practice 35.6 (2015): 87–94.
