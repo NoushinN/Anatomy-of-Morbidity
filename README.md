@@ -23,10 +23,10 @@ Result reporting and story telling abilities, knowledge of R and R-packages, tea
 
 
 ##### Resources
-1. [Git and GitHub for Poets] (https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
-2. [Useful R packages] (https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)    
+* [Git and GitHub for Poets] (https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
+* [Useful R packages] (https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)    
 
-########## References  
+###### References  
 [^1]: [Canada's aging population will strain the health-care system] (https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/)   
 [^2]: [Caring for aging parents costs Canadians $33 billion a year — and it’s just going to get worse]
 (https://business.financialpost.com/personal-finance/retirement/caring-for-aging-parents-costs-canadians-33-billion-a-year-and-its-just-going-to-get-worse)  
