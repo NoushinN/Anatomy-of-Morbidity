@@ -1,6 +1,3 @@
-# Welcome to the anatomy of morbidity project
-As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics (https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
-
 ---
 #### Project lead: Noushin Nabavi  
 #### Email: nabavinoushin@gmail.com  
@@ -8,6 +5,9 @@ As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.co
 #### Twitter: [Twitter](https://twitter.com/nabavinoushin)   
 #### Github: [Github](https://github.com/NoushinN)  
 ---
+
+# Welcome to the anatomy of morbidity project
+As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics (https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
 
 # Project abstract
 With the rise of _aging_ population and _chronic diseases_, Canada continues to suffer from the high costs of disease management [1-3]. Additionally, studies on prevalence and patterns of causes of morbidity or co-morbidity and associated determinants in Canada remain scarce and outdated [4].  Canadian Vital Statistics has recently released a comprehensive and well-annotated dataset on causes of death and mortality of all Canadians from 2012 until 2016. We _hypothesize_ that understanding the major causes of mortality (i.e. various diseases) among males and females in different age categories across all provinces can inform health care and governmental policies. In this project, we will formulate hypotheses about what we most die of as a nation and test them by exploring these datasets. The overarching aim is to generate a final report on the most common causes of death across Canada that can at its best inform health care professionals and government agencies in developing evidence-base policies.
