@@ -30,9 +30,9 @@ Result reporting and story telling abilities, knowledge of R and R-packages, tea
 
 
 ---
-#### Project lead: Noushin Nabavi  
-#### Email: nabavinoushin@gmail.com  
-#### Tel.: 226-316-2399     
-#### Twitter: [Twitter](https://twitter.com/nabavinoushin)   
-#### Github: [Github](https://github.com/NoushinN)  
+###### Project lead: Noushin Nabavi  
+###### Email: nabavinoushin@gmail.com  
+###### Tel.: 226-316-2399     
+###### Twitter: [Twitter](https://twitter.com/nabavinoushin)   
+###### Github: [Github](https://github.com/NoushinN)  
 ---
