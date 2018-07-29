@@ -1,10 +1,7 @@
 ## Welcome to the anatomy of morbidity project
 As part of the #hackseq18, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics](https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
 
-Project lead: Noushin Nabavi, nabavinoushin@gmail.com, 226-316-2399
-Twitter | Github
-@nabavinoushin | @Noushinn
-
+Project lead: Noushin Nabavi, nabavinoushin@gmail.com, 226-316-2399  
 Twitter         |      Github
 ------------    | -------------
 @nabavinoushin  | @Noushinn
@@ -14,7 +11,7 @@ With the rise of _aging_ population and _chronic diseases_, Canada suffers from 
 
 
 ## Who you are
-You are passionate about the scientific inquiry and like to put the scientific method to good use using an interesting dataset. Basic familiarity with data analysis in RStudio is an asset, this includes data wrangling (tidyverse, purr, tidyr, dplyr) data visualization (ggplot2, maptools, ggmap) and data reporting (Rshiny, Rmarkdown). You are concerned about reproducibility in science and so are familiar with Git and Github project management and organization.  
+You are passionate about the scientific inquiry and like to put the scientific method to good use using an interesting dataset. Basic familiarity with data analysis in RStudio is an asset, this includes data wrangling (_tidyverse, purr, tidyr, dplyr_) data visualization (_ggplot2, maptools, ggmap_) and data reporting (_Rshiny, Rmarkdown_). You are concerned about reproducibility in science and so are familiar with Git and Github project management and organization.  
 
 ### Level of proficiency
 Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
