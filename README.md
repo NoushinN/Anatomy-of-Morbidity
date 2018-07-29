@@ -2,16 +2,12 @@
 As part of the _three_ day challenge for [#hackseq18](https://www.hackseq.com/) on October 12-14, 2018 at UBC, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics](https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
 
 Project lead: Noushin Nabavi, nabavinoushin@gmail.com, 226-316-2399  
-[Twitter]       |   @nabavinoushin   
+[Twitter]       |  (https://twitter.com/nabavinoushin) 
 ------------    | -------------
-[Github]        | @Noushinn
+[Github]        | (https://github.com/NoushinN)
 
 # Project abstract
 With the rise of _aging_ population and _chronic diseases_, Canada continues to suffer from the high costs of disease management [^1],[^2],[^3]. Additionally, studies on prevalence and patterns of causes of morbidity or co-morbidity and associated determinants in Canada remain scarce and outdated [^4].  Canadian Vital Statistics has recently released a comprehensive and well-annotated dataset on causes of death and mortality of all Canadians from 2012 until 2016. We _hypothesize_ that understanding the major causes of mortality (i.e. various diseases) among males and females in different age categories across all provinces can inform health care and governmental policies. In this project, we will formulate hypotheses about what we most die of as a nation and test them by exploring these datasets. The overarching aim is to generate a final report on the most common causes of death across Canada that can at its best inform health care professionals and government agencies in developing evidence-base policies.
-
-
-
-
 
 ## Who you are
 You are passionate about the scientific inquiry and like to put the scientific method to good use using an interesting dataset. Basic familiarity with data analysis in RStudio is an asset, this includes data wrangling (_tidyverse, purr, tidyr, dplyr_) data visualization (_ggplot2, maptools, ggmap_) and data reporting (_Rshiny, Rmarkdown_). You are concerned about reproducibility in science and so are familiar with Git and Github project management and organization.  
