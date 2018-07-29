@@ -1,17 +1,13 @@
 ## Welcome to the anatomy of morbidity project
-As part of the _three_ day challenge for [#hackseq18](https://www.hackseq.com/) on October 12-14, 2018 at UBC, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics (https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
+As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics (https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
 
-
+---
 ### Project lead: Noushin Nabavi  
 ### Email: nabavinoushin@gmail.com  
 ### Tel.: 226-316-2399     
 ### Twitter: [Twitter](https://twitter.com/nabavinoushin)   
 ### Github: [Github](https://github.com/NoushinN)  
-
-Table Header | Second Header
-------------- | -------------
-Table Cell | Cell 2
-Cell 3 | Cell 4 
+---
 
 
 # Project abstract
@@ -23,18 +19,18 @@ You are passionate about the scientific inquiry and like to put the scientific m
 ### Level of proficiency
 Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
 * 1 Star: 
-+ "I can work with this language if I have access to Stack Overflow".
++>> "I can work with this language if I have access to Stack Overflow".
 * 2 Star: 
-+ "I know this language and use it in my work/projects regularly."
++>> "I know this language and use it in my work/projects regularly."
 * 3 Star: 
-+ "I'm am one with the language. I've developed software using it."
++>> "I'm am one with the language. I've developed software using it."
 
 #### Optional competency
-Result reporting and story telling abilities, knowledge of R and R-packages, teaching that to fellow team mates, and ready to have fun.
+Result reporting and story telling abilities, knowledge of R and R-packages, teaching that to fellow team-mates, and ready to have fun!
 
 
 ##### Resources
-* [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
+* [Daniel Shiffman's Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
 * [Useful R packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)    
 
 ###### References  
