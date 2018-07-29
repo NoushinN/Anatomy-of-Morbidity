@@ -24,7 +24,7 @@ Result reporting and story telling abilities, knowledge of R and R-packages, tea
 
 ##### Resources
 1. [Git and GitHub for Poets] (https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
-2. [Useful R packages]: (https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)  
+2. [Useful R packages] (https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)    
 
 ########## References
 [^1]: [Canada's aging population will strain the health-care system] (https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/)   
