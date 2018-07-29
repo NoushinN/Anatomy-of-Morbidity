@@ -9,7 +9,6 @@ As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.co
 #### Github: [Github](https://github.com/NoushinN)  
 ---
 
-
 # Project abstract
 With the rise of _aging_ population and _chronic diseases_, Canada continues to suffer from the high costs of disease management [1-3]. Additionally, studies on prevalence and patterns of causes of morbidity or co-morbidity and associated determinants in Canada remain scarce and outdated [4].  Canadian Vital Statistics has recently released a comprehensive and well-annotated dataset on causes of death and mortality of all Canadians from 2012 until 2016. We _hypothesize_ that understanding the major causes of mortality (i.e. various diseases) among males and females in different age categories across all provinces can inform health care and governmental policies. In this project, we will formulate hypotheses about what we most die of as a nation and test them by exploring these datasets. The overarching aim is to generate a final report on the most common causes of death across Canada that can at its best inform health care professionals and government agencies in developing evidence-base policies.
 
@@ -18,11 +17,11 @@ You are passionate about the scientific inquiry and like to put the scientific m
 
 ## Level of proficiency
 Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
-** 1 Star: "I can work with this language if I have access to Stack Overflow."
-** 2 Stars: "I know this language and use it in my work/projects regularly."
-** 3 Stars: "I'm am one with the language. I've developed software using it."
+* 1 Star: "I can work with this language if I have access to Stack Overflow."
+* 2 Stars: "I know this language and use it in my work/projects regularly."
+* 3 Stars: "I'm am one with the language. I've developed software using it."
 
-## Optional competency
+# Optional competency
 Result reporting and story telling abilities, knowledge of R and R-packages, teaching that to fellow team-mates, and ready to have fun!
 
 
