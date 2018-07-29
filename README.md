@@ -18,12 +18,9 @@ You are passionate about the scientific inquiry and like to put the scientific m
 
 ## Level of proficiency
 Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
-1. 1 Star: 
-  * "I can work with this language if I have access to Stack Overflow."
-2. 2 Stars: 
-  * "I know this language and use it in my work/projects regularly."
-3. 3 Stars: 
-  * "I'm am one with the language. I've developed software using it."
+** 1 Star: "I can work with this language if I have access to Stack Overflow."
+** 2 Stars: "I know this language and use it in my work/projects regularly."
+** 3 Stars: "I'm am one with the language. I've developed software using it."
 
 ## Optional competency
 Result reporting and story telling abilities, knowledge of R and R-packages, teaching that to fellow team-mates, and ready to have fun!
