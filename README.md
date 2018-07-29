@@ -1,5 +1,5 @@
 ## Welcome to the anatomy of morbidity project
-As part of the _three_ day challenge for [#hackseq18](https://www.hackseq.com/) on October 12-14, 2018 at UBC, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics](https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
+As part of the _three_ day challenge for [#hackseq18](https://www.hackseq.com/) on October 12-14, 2018 at UBC, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics (https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
 
 Project lead: Noushin Nabavi  
 Email:nabavinoushin@gmail.com  
@@ -24,12 +24,11 @@ Result reporting and story telling abilities, knowledge of R and R-packages, tea
 
 
 ##### Resources
-* [Git and GitHub for Poets] (https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
-* [Useful R packages] (https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)    
+* [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
+* [Useful R packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)    
 
 ###### References  
-[^1]: [Canada's aging population will strain the health-care system] (https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/)   
-[^2]: [Caring for aging parents costs Canadians $33 billion a year — and it’s just going to get worse]
-(https://business.financialpost.com/personal-finance/retirement/caring-for-aging-parents-costs-canadians-33-billion-a-year-and-its-just-going-to-get-worse)  
-[^3]: [Canada ‘woefully unprepared’ to deal with senior population surge, Senate committee hears](https://globalnews.ca/news/3489880/aging-senior-population-canada-cost-caring-prepared/)    
-[^4]: [Roberts, K. C. et al. “Prevalence and Patterns of Chronic Disease Multimorbidity and Associated Determinants in Canada.” Health Promotion and Chronic Disease Prevention in Canada : Research, Policy and Practice 35.6 (2015): 87–94.] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910465/)  
+[^1]: [Canada's aging population will strain the health-care system](https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/)  
+[^2]: [Caring for aging parents costs Canadians $33 billion a year — and it’s just going to get worse](https://business.financialpost.com/personal-finance/retirement/caring-for-aging-parents-costs-canadians-33-billion-a-year-and-its-just-going-to-get-worse)  
+[^3]: [Canada ‘woefully unprepared’ to deal with senior population surge, Senate committee hears](https://globalnews.ca/news/3489880/aging-senior-population-canada-cost-caring-prepared/)  
+[^4]: [Roberts, K. C. et al. “Prevalence and Patterns of Chronic Disease Multimorbidity and Associated Determinants in Canada.” Health Promotion and Chronic Disease Prevention in Canada : Research, Policy and Practice 35.6 (2015): 87–94.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910465/)  
