@@ -1,6 +1,6 @@
 
 # Welcome to the anatomy of morbidity project
-![#hackseq18-Project8](anatomy-of-morbidity/Image)
+![#hackseq18-Project8](anatomy-of-morbidity/image/Project-graphics.jpg)
     
 As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics](https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm) for this project.
 
