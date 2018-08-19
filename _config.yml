@@ -1,1 +1,12 @@
+# basic options
+title: Anatomy of Morbidity 
+author: Noushin Nabavi
+email: nabavinoushin@gmail.com
+description: Hackathon 2018 Project
+twitter_username: nabavinoushin
+github_username:  NoushinN
+
+# Build settings
+markdown: kramdown
+
 theme: jekyll-theme-slate
