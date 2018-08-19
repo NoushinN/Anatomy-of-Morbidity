@@ -7,5 +7,5 @@ twitter_username: nabavinoushin
 github_username:  NoushinN
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
 theme: jekyll-theme-slate
