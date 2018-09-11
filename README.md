@@ -17,9 +17,10 @@ Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
 * 3 Stars: "I'm am one with the language. I've developed software using it."
 
 Use this poll:
-[![](https://api.gh-polls.com/poll/01CQ31AXYB343TTEGPK7C7B48C/*%201%20Star%3A%20%22I%20can%20work%20with%20this%20language%20if%20I%20have%20access%20to%20Stack%20Overflow.%22)](https://api.gh-polls.com/poll/01CQ31AXYB343TTEGPK7C7B48C/*%201%20Star%3A%20%22I%20can%20work%20with%20this%20language%20if%20I%20have%20access%20to%20Stack%20Overflow.%22/vote)
-[![](https://api.gh-polls.com/poll/01CQ31AXYB343TTEGPK7C7B48C/*%202%20Stars%3A%20%22I%20know%20this%20language%20and%20use%20it%20in%20my%20work%2Fprojects%20regularly.%22)](https://api.gh-polls.com/poll/01CQ31AXYB343TTEGPK7C7B48C/*%202%20Stars%3A%20%22I%20know%20this%20language%20and%20use%20it%20in%20my%20work%2Fprojects%20regularly.%22/vote)
-[![](https://api.gh-polls.com/poll/01CQ31AXYB343TTEGPK7C7B48C/*%203%20Stars%3A%20%22I'm%20am%20one%20with%20the%20language.%20I've%20developed%20software%20using%20it.%22)](https://api.gh-polls.com/poll/01CQ31AXYB343TTEGPK7C7B48C/*%203%20Stars%3A%20%22I'm%20am%20one%20with%20the%20language.%20I've%20developed%20software%20using%20it.%22/vote)
+
+[![](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/1-star)](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/1-star/vote)
+[![](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/2-stars)](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/2-stars/vote)
+[![](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/3-stars)](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/3-stars/vote)
 
 ## Optional competency
 Result reporting and story telling abilities, knowledge of R and R-packages, teaching that to fellow team-mates, and ready to have fun!
