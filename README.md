@@ -43,4 +43,8 @@ Result reporting and story telling abilities, knowledge of RStudio and R-package
 |**Project lead:** Noushin Nabavi| **Email:** nabavinoushin@gmail.com|
 |:--------------------------:|:-----------------------------:| 
 |**Twitter:** [Twitter](https://twitter.com/nabavinoushin) | **Github:** [Github](https://github.com/NoushinN) |
+|:--------------------------:|:-----------------------------:| 
+|**Project co-lead:** Marion Shadbolt| **Email:** marion.shadbolt@gmail.com|
+|:--------------------------:|:-----------------------------:| 
+|| **Github:** [Github](https://github.com/mshadbolt) |
 ---
