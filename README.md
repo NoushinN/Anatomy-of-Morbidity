@@ -1,6 +1,7 @@
 
 # Welcome to the anatomy of morbidity project
-![Project8](https://github.com/NoushinN/anatomy-of-morbidity/blob/gh-pages/image/Project-graphics.jpg)
+![Project8](https://github.com/NoushinN/anatomy-of-morbidity/blob/gh-pages/image/Project-graphics.jpg)  
+[Project slack channel](https://morbidity-anatomy.slack.com/)
     
 As part of the **three** day challenge for [_#hackseq18_](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics](https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm). We will be using descriptive, diagnostic, and predictive data analyses for this project to enable prescriptive recommendations.
 
