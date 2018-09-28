@@ -33,6 +33,7 @@ Result reporting and story telling abilities, knowledge of RStudio and R-package
 * [Useful R packages](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)  
 * [On hypothesizing, Strong Inference by John Platt](http://science.sciencemag.org/content/146/3642/347)  
 * [Multi-Level Modeling by Singer and Willet](https://stats.idre.ucla.edu/other/examples/alda/)  
+* [Population-level time series regression analysis](https://courses.edx.org/courses/course-v1:UBCx+ITSx+1T2017/course/)
 
 # References  
 [1]. [Canada's aging population will strain the health-care system](https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/)  
