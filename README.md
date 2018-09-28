@@ -47,9 +47,7 @@ Result reporting and story telling abilities, knowledge of RStudio and R-package
 |:--------------------------:|:-----------------------------:| 
 |**Twitter:** [Twitter](https://twitter.com/nabavinoushin) | **Github:** [Github](https://github.com/NoushinN) |
 |:--------------------------:|:-----------------------------:| 
-|**Project co-lead:** Marion Shadbolt and Raissa Philibert|
-|:--------------------------:|:-----------------------------:| 
+|**Project co-leads:** Marion Shadbolt and Raissa Philibert|
 | **Github:** [Github](https://github.com/mshadbolt) |
-|:--------------------------:|:-----------------------------:| 
 | **Github:** [Github](https://github.com/raiphilibert) |
 ---
