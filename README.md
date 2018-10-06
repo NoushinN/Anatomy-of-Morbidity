@@ -25,7 +25,9 @@ Use this poll:
 [![](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/3-stars)](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/3-stars/vote)
 
 ## Optional competency
+```sh
 Result reporting and story telling abilities, knowledge of RStudio and R-packages, teaching that to fellow team-mates, and ready to have fun!
+```
 
 
 # Resources
