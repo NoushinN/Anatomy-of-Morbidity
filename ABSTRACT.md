@@ -10,9 +10,9 @@ Our hypothesis-driven solution enables interactive visualizations so that the in
 
 
 
+## Central Repo: https://github.com/mshadbolt/anatomy-of-morbidity-project
 
-
-Project Team Members: Eva Yap, Katarina Priecelova, Shannon Lo, Rachel Miller, Mariam Arab, chuhan zhang, Emily Gong, Sophia Chan, Adil Imtiaz,  Uyen Nguyen, Lisa Cao, Marion Shadbolt, Raissa Phillibert, Noushin Nabavi
+## Project Team Members: Eva Yap, Katarina Priecelova, Shannon Lo, Rachel Miller, Mariam Arab, chuhan zhang, Emily Gong, Sophia Chan, Adil Imtiaz,  Uyen Nguyen, Lisa Cao, Marion Shadbolt, Raissa Phillibert, Noushin Nabavi
 
 
 
