@@ -16,6 +16,5 @@ https://github.com/mshadbolt/anatomy-of-morbidity-project
 ## Project Team Members:  
 Eva Yap, Katarina Priecelova, Shannon Lo, Rachel Miller, Mariam Arab, chuhan zhang, Emily Gong, Sophia Chan, Adil Imtiaz,  Uyen Nguyen, Lisa Cao, Marion Shadbolt, Raissa Phillibert, Noushin Nabavi
 
-
-
+ ![Project Team](https://github.com/NoushinN/anatomy-of-morbidity/blob/gh-pages/image/Hackseq18.jpg)
 
