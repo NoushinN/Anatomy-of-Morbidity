@@ -8,4 +8,4 @@ github_username:  NoushinN
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
