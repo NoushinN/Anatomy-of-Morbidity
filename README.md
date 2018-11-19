@@ -28,7 +28,8 @@ Use this poll:
 ```sh
 Result reporting and story telling abilities, knowledge of RStudio and R-packages, teaching that to fellow team-mates, and ready to have fun!
 ```
-
+# Results of hackseq18 
+This shinyapp has what we worked on as a team: https://mshadbolt.shinyapps.io/causes_initial/
 
 # Resources
 * [Daniel Shiffman's Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
