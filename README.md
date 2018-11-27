@@ -42,12 +42,11 @@ Result reporting and story telling abilities, knowledge of RStudio and R-package
 [1]. [Canada's aging population will strain the health-care system](https://www.theglobeandmail.com/opinion/editorials/canadas-aging-population-will-strain-the-health-care-system/article543638/)  
 [2]. [Caring for aging parents costs Canadians $33 billion a year — and it’s just going to get worse](https://business.financialpost.com/personal-finance/retirement/caring-for-aging-parents-costs-canadians-33-billion-a-year-and-its-just-going-to-get-worse)  
 [3]. [Canada ‘woefully unprepared’ to deal with senior population surge, Senate committee hears](https://globalnews.ca/news/3489880/aging-senior-population-canada-cost-caring-prepared/)  
-[4]. [Roberts, K. C. et al. “Prevalence and Patterns of Chronic Disease Multimorbidity and Associated Determinants in Canada.” Health Promotion and Chronic Disease Prevention in Canada : Research, Policy and Practice 35.6 (2015): 87–94.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910465/)  
+[4]. [Roberts, K. C. et al. “Prevalence and Patterns of Chronic Disease Multimorbidity and Associated Determinants in Canada.” Health Promotion and Chronic Disease Prevention in Canada : Research, Policy and Practice 35.6 (2015): 87–94.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910465/)   
 
 
----
-|**Project lead:** Noushin Nabavi | [Github](https://github.com/NoushinN) |
-|-------------------------------- | ------------------------------------- |
-|**Project co-lead:** Marion Shadbolt | [Github](https://github.com/mshadbolt) |
-|**Project co-lead:** Raissa Philibert | [Github](https://github.com/raiphilibert) |
----
+
+**Project lead:** Noushin Nabavi: [Github](https://github.com/NoushinN)  
+**Project co-lead:** Marion Shadbolt: [Github](https://github.com/mshadbolt)   
+**Project co-lead:** Raissa Philibert: [Github](https://github.com/raiphilibert)   
+
