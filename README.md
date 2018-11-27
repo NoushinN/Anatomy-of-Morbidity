@@ -12,7 +12,7 @@ With the rise of _aging_ population and _chronic diseases_, Canada continues to 
 # Who you are
 You are passionate about the scientific inquiry and like to put the scientific method to good use using an interesting dataset. Basic familiarity with data analysis in Python or RStudio is an asset, for instance, this could include data wrangling (_tidyverse, purr, tidyr, dplyr_), data visualization and modelling (_ggplot2, maptools, ggmap, nlme, reshape_), as well as data reporting (_Rshiny, Rmarkdown_) in RStudio. You are concerned about reproducibility in science and so are familiar with Git and Github project management and organization.  
 
-## Level of proficiency
+# Level of proficiency
 Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
 * 1 Star: "I can work with this language if I have access to Stack Overflow."
 * 2 Stars: "I know this language and use it in my work/projects regularly."
@@ -24,7 +24,7 @@ Use this poll:
 [![](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/2-stars)](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/2-stars/vote)
 [![](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/3-stars)](https://api.gh-polls.com/poll/01CQ31FP395X9N3V96B9VPJ6HN/3-stars/vote)
 
-## Optional competency
+# Optional competency
 ```sh
 Result reporting and story telling abilities, knowledge of RStudio and R-packages, teaching that to fellow team-mates, and ready to have fun!
 ```
