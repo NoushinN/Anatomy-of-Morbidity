@@ -44,7 +44,8 @@ Result reporting and story telling abilities, knowledge of RStudio and R-package
 [3]. [Canada ‘woefully unprepared’ to deal with senior population surge, Senate committee hears](https://globalnews.ca/news/3489880/aging-senior-population-canada-cost-caring-prepared/)  
 [4]. [Roberts, K. C. et al. “Prevalence and Patterns of Chronic Disease Multimorbidity and Associated Determinants in Canada.” Health Promotion and Chronic Disease Prevention in Canada : Research, Policy and Practice 35.6 (2015): 87–94.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4910465/)   
 
-
+## Project Team Members:  
+Eva Yap, Katarina Priecelova, Shannon Lo, Rachel Miller, Mariam Arab, chuhan zhang, Emily Gong, Sophia Chan, Adil Imtiaz,  Uyen Nguyen, Lisa Cao, Marion Shadbolt, Raissa Phillibert, Noushin Nabavi
 
 **Project lead:** Noushin Nabavi: [Github](https://github.com/NoushinN)  
 **Project co-lead:** Marion Shadbolt: [Github](https://github.com/mshadbolt)   
