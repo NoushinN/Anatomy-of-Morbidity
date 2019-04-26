@@ -29,8 +29,8 @@ Use this poll:
 Result reporting and story telling abilities, knowledge of RStudio and R-packages, teaching that to fellow team-mates, and ready to have fun!
 ```
 # Results of hackseq18 
-[This shinyapp has what we worked on as a team](https://mshadbolt.shinyapps.io/causes_initial/)
-[Recorded video presentation of our project: minute 39:00](https://www.youtube.com/watch?v=xNZRBpEhnY4&feature=youtu.be&t=609)    
+- [This shinyapp has what we worked on as a team](https://mshadbolt.shinyapps.io/causes_initial/)    
+- [Recorded video presentation of our project: minute 39:00](https://www.youtube.com/watch?v=xNZRBpEhnY4&feature=youtu.be&t=609)    
 
 # Resources
 * [Daniel Shiffman's Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
