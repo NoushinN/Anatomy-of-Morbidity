@@ -3,14 +3,14 @@
 ![Project8](https://github.com/NoushinN/anatomy-of-morbidity/blob/gh-pages/image/Project-graphics.jpg)  
 
 
-As part of the **three** day challenge for [#hackseq18](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we will be analyzing the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics](https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm). We will be using descriptive, diagnostic, and predictive data analyses for this project to enable prescriptive recommendations.  
-We encourage team participants to form their own interests/questions from the data and join the [project slack channel](https://morbidity-anatomy.slack.com/). 
+As part of the **three** day challenge for [#hackseq18](https://www.hackseq.com/) on **October 12-14, 2018** at the University of British Columbia, we analyzed the most recent open dataset called **"Death, causes of death, and life expectancy, 2016"** from [Canadian Vital Statistics](https://www150.statcan.gc.ca/n1/daily-quotidien/180628/dq180628b-eng.htm). We used descriptive, diagnostic, and predictive data analyses for this project to enable prescriptive recommendations.  
+We encourage participants to form their own interests/questions from the data and join the [project slack channel](https://morbidity-anatomy.slack.com/). 
 
 # Project abstract
-With the rise of _aging_ population and _chronic diseases_, Canada continues to suffer from the high costs of disease management [1-3]. Additionally, studies on prevalence and patterns of causes of morbidity or co-morbidity and associated determinants in Canada remain scarce and outdated [4].  Canadian Vital Statistics has recently released a comprehensive and well-annotated dataset on causes of death and mortality of all Canadians from 2012 until 2016. We _hypothesize_ that understanding the major causes of mortality (i.e. various diseases) among males and females in different age categories across all provinces can inform health care and governmental policies. In this project, we will formulate hypotheses about what we most die of as a nation and test them by exploring these datasets. The overarching aim is to generate a final report on the most common causes of death across Canada that can at its best inform health care professionals and government agencies in developing evidence-base policies.
+With the rise of _aging_ population and _chronic diseases_, Canada continues to suffer from the high costs of disease management [1-3]. Additionally, studies on prevalence and patterns of causes of morbidity or co-morbidity and associated determinants in Canada remain scarce and outdated [4].  Canadian Vital Statistics has recently released a comprehensive and well-annotated dataset on causes of death and mortality of all Canadians from 2012 until 2016. We _hypothesize_ that understanding the major causes of mortality (i.e. various diseases) among males and females in different age categories across all provinces can inform health care and governmental policies. In this project, we will formulate hypotheses about what we most die of as a nation and test them by exploring these datasets. The overarching goal is to enable evidence-informed policymaking in Canada with these visuals..
 
-# Who you are
-You are passionate about the scientific inquiry and like to put the scientific method to good use using an interesting dataset. Basic familiarity with data analysis in Python or RStudio is an asset, for instance, this could include data wrangling (_tidyverse, purr, tidyr, dplyr_), data visualization and modelling (_ggplot2, maptools, ggmap, nlme, reshape_), as well as data reporting (_Rshiny, Rmarkdown_) in RStudio. You are concerned about reproducibility in science and so are familiar with Git and Github project management and organization.  
+# Participants
+Passionate about the scientific inquiry and inspired to put the scientific method to good use using an interesting dataset. Basic familiarity with data analysis in Python or RStudio is an asset, for instance, this could include data wrangling (_tidyverse, purr, tidyr, dplyr_), data visualization and modelling (_ggplot2, maptools, ggmap, nlme, reshape_), as well as data reporting (_Rshiny, Rmarkdown_) in RStudio. Concerned about reproducibility in science and so familiar with Git and Github project management and organization.  
 
 # Level of proficiency
 Skills can vary from 1 to 3 stars because enthusiasm to learn is key!
@@ -29,7 +29,7 @@ Use this poll:
 Result reporting and story telling abilities, knowledge of RStudio and R-packages, teaching that to fellow team-mates, and ready to have fun!
 ```
 # Results of hackseq18 
-- [This shinyapp has what we worked on as a team](https://mshadbolt.shinyapps.io/causes_initial/)    
+- [This shinyapp contains what we worked on as a team](https://mshadbolt.shinyapps.io/causes_initial/)    
 - [Recorded video presentation of our project: minute 39:00](https://www.youtube.com/watch?v=xNZRBpEhnY4&feature=youtu.be&t=609)    
 
 # Resources
